@@ -1,5 +1,3 @@
-package com.ravi.assignment.bike;
-
 public class Bike {
 	private String Company;
 	private String model;
