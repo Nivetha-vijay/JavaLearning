@@ -37,6 +37,7 @@ public class Pyramid {
 				N1++;
 			}
 			System.out.println("");
+			System.out.println("");
 		}
 	}
 }
