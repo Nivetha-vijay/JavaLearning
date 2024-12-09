@@ -16,8 +16,7 @@ public class Bike {
 		if(this.Fuelcapacity<fuel) {
 			System.out.println("Warning : Fuel has Capacity only as : "+Fuelcapacity);
 		}
-		else
-		{
+		else{
 			System.out.println("Tank Filled with : "+fuel);
 		}
 	}
