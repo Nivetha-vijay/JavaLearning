@@ -1,5 +1,3 @@
-package com.java.learning.rahul.shetty;
-
 public class Pyramid {
 
 	public static void main(String[] args) {
